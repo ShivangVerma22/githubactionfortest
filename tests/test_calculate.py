@@ -21,6 +21,11 @@ def test_div():
     assert div(6,6)==1
     assert div(-1,1)==-1
     assert div(14,7)==2
+
+def test_mod():
+    assert div(6,6)==0
+    assert div(1,1)==0
+    assert div(14,7)==0
     
     
     
