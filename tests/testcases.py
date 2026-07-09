@@ -19,8 +19,8 @@ def test_mul():
 
 def test_div():
     assert div(6,6)==1
-    assert add(-1,1)==-1
-    assert add(14,7)==2
+    assert div(-1,1)==-1
+    assert div(14,7)==2
     
     
     
