@@ -1,4 +1,4 @@
-from src.Calculate import add,sub,mul,div
+from src.Calculate import add,sub,mul,div,mod
 
 
 #now making function for testing and usinf assert keyword for output varify
